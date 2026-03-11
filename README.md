@@ -1,7 +1,3 @@
-<img width="542" height="959" alt="image" src="https://github.com/user-attachments/assets/28300b36-7bbb-4ca9-8107-9cc6866fe33c" />
-<img width="531" height="927" alt="image" src="https://github.com/user-attachments/assets/c2709069-ec29-4e15-a361-ce2e02cca872" />
-<img width="537" height="949" alt="image" src="https://github.com/user-attachments/assets/c1a1c351-4f7a-412b-9bd7-b680ed600f9b" />
-<img width="539" height="953" alt="image" src="https://github.com/user-attachments/assets/2810898b-d94d-400f-a74d-498c6877c454" />
 
 # chatapp
 
